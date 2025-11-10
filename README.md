@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @cherrymorales
 - 👀 I’m interested in Software Engineering and architecting solutions.
-- 🌱 I’m currently learning and taking my Master in IT major in AI and Data Science and preparing for certification in Solutions Architect in Cloud.
+- 🌱 I completed my Master in IT major in AI and Data Science and preparing for certification in Solutions Architect in Cloud.
 - 💞️ I’m looking to collaborate on projects that solves real-world problem or anything for fun.
 - 📫 How to reach me? You can reach me thru my linkedin profile cherrypmorales.
 - 😄 Pronouns: She/Her
